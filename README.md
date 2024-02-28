@@ -4,6 +4,8 @@
 
 ### Авантуристичка игра со научна фантастика, прикажана во 3D поглед.
 
+Unity package: https://mega.nz/folder/vIZxgAhS#vHaj2fu2OwQTn9ZVstsAmg
+
 References:
 1. https://learn.unity.com/tutorial/3d-game-kit-walkthrough
 2. https://learn.unity.com/pathway/creative-core
